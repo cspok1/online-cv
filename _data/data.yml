@@ -3,187 +3,234 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Cai Sheng Pok
+    tagline: Second year Computer Science student studying at Brunel University London
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: ahpok47@gmail.com
+    phone: 07342192798
+    website: #do not add http://
+    linkedin:
+    github: cspok1
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Mandarin
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Malay
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Cantonese
+        level: Intermediate
+
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
-    title: Career Profile
+    title: Skills Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. You can [download this free resume/CV template here]().
+      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      # Donec quam felis, ultricies nec, pellentesque eu.
+      # Second paragraph if required.
+      - Able to program in Java demonstrated through Introductory Programming module and working on group projects at university
+      - Knowledge of how typical query tasks are performed using SQL, gained through the Data and Information module at university
+      - Designed and developed websites using HTML, CSS and JavaScript to develop a web application during a 2-month internship
+      - Proficient in the use of word processors such as Word, Google Docs and presentation software including PowerPoint and Google Slides
+      - Capable of using MacOS, Windows and Linux operating systems
+      - Understanding of methodologies including traditional software development, SCRUM and Agile through Information Systems module
+      - Good team working and communication skills, developed by working on group projects helping my team out with their work load
+      - Able to work under pressure and maintain energy levels and enthusiasm through working at a busy grab and go style takeaway restaurant – GrabThai Bangkok Café
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Brunel University London
+      university: BSc (Hons) Computer Science
+      time: Sept. 2018 to June 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        # sociis natoque penatibus et magnis dis parturient montes, nascetur
+        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        # pretium quis, sem.
+        - Year Two Modules: Group Project, Software Development and Management, 
+          Usability Engineering, Algorithms and their Applications, 
+          Network and Operating Systems
+        - Year One Modules: Introductory Programming (A*), 
+          Information System and Organisations (A+), 
+          Group Project (Software Implementation: A+, 
+          Group Project Reflection: A+, Software Design: B), 
+          Logic and Computation (B+), Data and Information (B-)
+    - degree: Chong Hwa Independent High School, Kuala Lumpur, Malaysia
+      university: 
+      time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        # Describe your study here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        # sociis natoque penatibus et magnis dis parturient montes, nascetur
+        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        # pretium quis, sem.
+          - Malaysian Independent Chinese Secondary School Unified Examination Certificate:
+          6As 4Bs including Advanced Maths, Economics, Bookkeeping and Accounts, Business Studies, Chinese Language
+          - Malaysia Certificate of Education (SPM):
+          9As 1B including Additional Maths, English, Basic Economics, Principles of Accounting, History
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Web Developer Intern
+      time: April 2018 to June 2018
+      company: Ferrucci Sdn Bhd, Kuala Lumpur, Malaysia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        # error sit voluptatem accusantium doloremque laudantium, totam rem
+        # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        # architecto beatae vitae dicta sunt explicabo.
+          - Designed and developed the company’s website using HTML and CSS, set up the company blog using WordPress
+          - Developed the front end of a financial planning web application using HTML, CSS and JavaScript using VueJS framework
+          - Researched and implemented unfamiliar new features such as user authentication system and live database using firebase, and dynamic charts with chart js
+          - Usage of version control with Git and GitHub
+          - Record and report to manager on updates to new changes or problem that arose
+
+    - role: Team Member - Part Time
+      time: March 2019 to March 2020
+      company: Grab Thai Bangkok Cafe, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem.
+        Previously employed in a busy grab and go style takeaway restaurant. This experience
+        has provided an opportunity to become involved in the following activities.
+          - Provide quality services to customers, such as taking orders and serving customers to ensure their requirements are met
+          - Work according to company’s policies and procedures as well as adhering to Food Hygiene and Health & Safety Regulations
+          - Acquired knowledge and experience to work as part of a team by working co-operatively with colleagues to ensure all the tasks were completed as planned
+          - Developed time management skills in organisation, planning and prioritisation, which helped me carry out my studies and part-time work efficiently
+
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 projects:
-    title: Projects
+    title: Project Work
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      # You can list your side projects or open source libraries in this
+      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A Year 1 group project to individually design an algorithm and implement 
+      a Java program for the finch robot, and integrate the program produced by 
+      all of the group members so that it runs as a single program.
+      - The purpose of the program was to make the finch robot move according to the directions in which the user has just tilted it
+      - Carried out research using the Internet on the finch API to identify relevant methods to include into my program
+      - Designed the program by listing out the required functionalities, drawing flowcharts and writing pseudocode to describe the steps and the logic of the program
+      - Implemented the software by developing the Java program that includes all the required and additional functionalities
+      - Included a test plan to show inputs that were used to test each functionality with, the expected output of the program and determine the program failings
+      - Integrated all of group members’ programs by making a graphical user interface with buttons corresponding to each of the program produced by group members
+      - Gained team working skills by discussing and sharing ideas with team members regularly, also being reliable by completing the task assigned to me on time
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    # assignments:
+    #   - title: Velocity
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    #   - title: DevStudio
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #   - title: Tempo
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: Atom
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    #   - title: Delta
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Extracurricular Activities and other skills
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Student Ambassador at Brunel University
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: "#"
+        conference: Promoting the university to prospective students
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Committee member for Computer Studies Society at Chong Hwa Independent High School
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: "#"
+        conference: "arranging society networking events, 
+        also aided and assisted in the preparation of worksheets 
+        about the basics of creative applications such as Adobe Premiere and GIMP etc."
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Competitions: "
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: - Semi-finalist of the Business Challenge held by Victoria University Melbourne & Sunway College Malaysia
+        - Participant of various inter-school competitions including ‘Mysekolah’ short 
+        film shooting and editing competition organised by IACT College Malaysia, 
+        KDU Accounting Quiz Challenge by KDU University Malaysia and The National 
+        Accounting Quiz by Help University Malaysia
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
