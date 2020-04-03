@@ -78,9 +78,9 @@ education:
       time: 2012 - 2017
       details: |
           - Malaysian Independent Chinese Secondary School Unified Examination Certificate:
-          6As 4Bs including Advanced Maths, Economics, Bookkeeping and Accounts, Business Studies, Chinese Language
+          <br>6As 4Bs including Advanced Maths, Economics, Bookkeeping and Accounts, Business Studies, Chinese Language
           - Malaysia Certificate of Education (SPM):
-          9As 1B including Additional Maths, English, Basic Economics, Principles of Accounting, History
+          <br>9As 1B including Additional Maths, English, Basic Economics, Principles of Accounting, History
 experiences:
     - role: Web Developer Intern
       time: April 2018 to June 2018
@@ -119,15 +119,14 @@ projects:
     intro: >
       A Year 1 group project to individually design an algorithm and implement 
       a Java program for the finch robot, and integrate the program produced by 
-      all of the group members so that it runs as a single program.
-
-        - The purpose of the program was to make the finch robot move according to the directions in which the user has just tilted it
-        - Carried out research using the Internet on the finch API to identify relevant methods to include into my program
-        - Designed the program by listing out the required functionalities, drawing flowcharts and writing pseudocode to describe the steps and the logic of the program
-        - Implemented the software by developing the Java program that includes all the required and additional functionalities
-        - Included a test plan to show inputs that were used to test each functionality with, the expected output of the program and determine the program failings
-        - Integrated all of group members’ programs by making a graphical user interface with buttons corresponding to each of the program produced by group members
-        - Gained team working skills by discussing and sharing ideas with team members regularly, also being reliable by completing the task assigned to me on time
+      all of the group members so that it runs as a single program.  
+        <ul><li> The purpose of the program was to make the finch robot move according to the directions in which the user has just tilted it</li>
+        <li>Carried out research using the Internet on the finch API to identify relevant methods to include into my program</li>
+        <li>Designed the program by listing out the required functionalities, drawing flowcharts and writing pseudocode to describe the steps and the logic of the program</li>
+        <li>Implemented the software by developing the Java program that includes all the required and additional functionalities</li>
+        <li>Included a test plan to show inputs that were used to test each functionality with, the expected output of the program and determine the program failings</li>
+        <li>Integrated all of group members’ programs by making a graphical user interface with buttons corresponding to each of the program produced by group members</li>
+        <li>Gained team working skills by discussing and sharing ideas with team members regularly, also being reliable by completing the task assigned to me on time</li></ul>
 
     # assignments:
     #   - title: Velocity
@@ -151,29 +150,25 @@ projects:
     #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Extracurricular Activities and other skills
+    title: Extracurricular Activities
     intro: |
     papers:
-      - title: Student Ambassador at Brunel University
+      - title: "Student Ambassador at Brunel University, promoting the university to prospective students"
         link:
         authors:
-        conference: Promoting the university to prospective students
+        conference: 
 
-      - title: Committee member for Computer Studies Society at Chong Hwa Independent High School
-        link: 
-        authors: 
-        conference: "arranging society networking events, 
-        also aided and assisted in the preparation of worksheets 
-        about the basics of creative applications such as Adobe Premiere and GIMP etc."
+      - title: Committee member for Computer Studies Society at Chong Hwa Independent High School, arranging society networking events, also aided and assisted in the preparation of worksheets about the basics of creative applications such as Adobe Premiere and GIMP etc.
+        
 
       - title: "Competitions: "
         link: 
         authors:
-        conference: "Semi-finalist of the Business Challenge held by Victoria University Melbourne and Sunway College Malaysia
-        and participant of various inter-school competitions including Mysekolah short 
+        conference: "<ul><li>Semi-finalist of the Business Challenge held by Victoria University Melbourne and Sunway College Malaysia</li>
+        <li>Participant of various inter-school competitions including Mysekolah short 
         film shooting and editing competition organised by IACT College Malaysia, 
         KDU Accounting Quiz Challenge by KDU University Malaysia and The National 
-        Accounting Quiz by Help University Malaysia"
+        Accounting Quiz by Help University Malaysia</li></ul>"
 
 # skills:
 #     title: Skills &amp; Proficiency
