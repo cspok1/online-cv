@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Cai Sheng Pok
-    tagline: Second year Computer Science student studying at Brunel University London
+    tagline: Second year Computer Science student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: 07342192798
     website: #do not add http://
     linkedin:
-    github: cspok1
+    github:
     gitlab:
     bitbucket:
     twitter:
@@ -51,12 +51,6 @@ sidebar:
 career-profile:
     title: Skills Summary
     summary: |
-      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      # adipiscing elit. You can [download this free resume/CV template here]().
-      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      # Donec quam felis, ultricies nec, pellentesque eu.
-      # Second paragraph if required.
       - Able to program in Java demonstrated through Introductory Programming module and working on group projects at university
       - Knowledge of how typical query tasks are performed using SQL, gained through the Data and Information module at university
       - Designed and developed websites using HTML, CSS and JavaScript to develop a web application during a 2-month internship
@@ -71,11 +65,6 @@ education:
       university: BSc (Hons) Computer Science
       time: Sept. 2018 to June 2022
       details: |
-        # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
         - Year Two Modules: Group Project, Software Development and Management, 
           Usability Engineering, Algorithms and their Applications, 
           Network and Operating Systems
@@ -88,11 +77,6 @@ education:
       university: 
       time: 2012 - 2017
       details: |
-        # Describe your study here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        # sociis natoque penatibus et magnis dis parturient montes, nascetur
-        # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        # pretium quis, sem.
           - Malaysian Independent Chinese Secondary School Unified Examination Certificate:
           6As 4Bs including Advanced Maths, Economics, Bookkeeping and Accounts, Business Studies, Chinese Language
           - Malaysia Certificate of Education (SPM):
@@ -102,15 +86,6 @@ experiences:
       time: April 2018 to June 2018
       company: Ferrucci Sdn Bhd, Kuala Lumpur, Malaysia
       details: |
-        # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        # Cum sociis natoque penatibus et magnis dis parturient montes,
-        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        # error sit voluptatem accusantium doloremque laudantium, totam rem
-        # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        # architecto beatae vitae dicta sunt explicabo.
           - Designed and developed the company’s website using HTML and CSS, set up the company blog using WordPress
           - Developed the front end of a financial planning web application using HTML, CSS and JavaScript using VueJS framework
           - Researched and implemented unfamiliar new features such as user authentication system and live database using firebase, and dynamic charts with chart js
@@ -121,11 +96,6 @@ experiences:
       time: March 2019 to March 2020
       company: Grab Thai Bangkok Cafe, London
       details: |
-        # Describe your role here lorem ipsum dolor sit amet, consectetuer
-        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        # Cum sociis natoque penatibus et magnis dis parturient montes,
-        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        # pellentesque eu, pretium quis, sem.
         Previously employed in a busy grab and go style takeaway restaurant. This experience
         has provided an opportunity to become involved in the following activities.
           - Provide quality services to customers, such as taking orders and serving customers to ensure their requirements are met
@@ -147,19 +117,17 @@ experiences:
 projects:
     title: Project Work
     intro: >
-      # You can list your side projects or open source libraries in this
-      # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
       A Year 1 group project to individually design an algorithm and implement 
       a Java program for the finch robot, and integrate the program produced by 
       all of the group members so that it runs as a single program.
-      - The purpose of the program was to make the finch robot move according to the directions in which the user has just tilted it
-      - Carried out research using the Internet on the finch API to identify relevant methods to include into my program
-      - Designed the program by listing out the required functionalities, drawing flowcharts and writing pseudocode to describe the steps and the logic of the program
-      - Implemented the software by developing the Java program that includes all the required and additional functionalities
-      - Included a test plan to show inputs that were used to test each functionality with, the expected output of the program and determine the program failings
-      - Integrated all of group members’ programs by making a graphical user interface with buttons corresponding to each of the program produced by group members
-      - Gained team working skills by discussing and sharing ideas with team members regularly, also being reliable by completing the task assigned to me on time
+
+        - The purpose of the program was to make the finch robot move according to the directions in which the user has just tilted it
+        - Carried out research using the Internet on the finch API to identify relevant methods to include into my program
+        - Designed the program by listing out the required functionalities, drawing flowcharts and writing pseudocode to describe the steps and the logic of the program
+        - Implemented the software by developing the Java program that includes all the required and additional functionalities
+        - Included a test plan to show inputs that were used to test each functionality with, the expected output of the program and determine the program failings
+        - Integrated all of group members’ programs by making a graphical user interface with buttons corresponding to each of the program produced by group members
+        - Gained team working skills by discussing and sharing ideas with team members regularly, also being reliable by completing the task assigned to me on time
 
     # assignments:
     #   - title: Velocity
@@ -185,30 +153,27 @@ projects:
 publications:
     title: Extracurricular Activities and other skills
     intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
     papers:
       - title: Student Ambassador at Brunel University
-        link: "#"
-        authors: "#"
+        link:
+        authors:
         conference: Promoting the university to prospective students
 
       - title: Committee member for Computer Studies Society at Chong Hwa Independent High School
-        link: "#"
-        authors: "#"
+        link: 
+        authors: 
         conference: "arranging society networking events, 
         also aided and assisted in the preparation of worksheets 
         about the basics of creative applications such as Adobe Premiere and GIMP etc."
 
       - title: "Competitions: "
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "- Semi-finalist of the Business Challenge held by Victoria University Melbourne & Sunway College Malaysia
-        - Participant of various inter-school competitions including ‘Mysekolah’ short 
+        link: 
+        authors:
+        conference: - Semi-finalist of the Business Challenge held by Victoria University Melbourne and Sunway College Malaysia
+        - Participant of various inter-school competitions including Mysekolah short 
         film shooting and editing competition organised by IACT College Malaysia, 
         KDU Accounting Quiz Challenge by KDU University Malaysia and The National 
-        Accounting Quiz by Help University Malaysia"
+        Accounting Quiz by Help University Malaysia
 
 # skills:
 #     title: Skills &amp; Proficiency
